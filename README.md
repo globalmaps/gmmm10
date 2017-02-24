@@ -13,5 +13,5 @@ Credit: "Global Map of Myanmar ©ISCGM/ Survey Department, Myanmar"
 
 Contact: Survey Department.
 
-E-mail: ![email](https://www.iscgm.org/gmd/images/email/myanmar.png)
+E-mail: ![email](email.png)
 
